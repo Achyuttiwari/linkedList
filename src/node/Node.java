@@ -1,6 +1,6 @@
 package node;
 
 public class Node {
-     int data;
-     Node next;
+     public int data;
+     public Node next;
 }

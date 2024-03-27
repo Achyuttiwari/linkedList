@@ -6,5 +6,6 @@ public class NodeOperation {
         newNode.data = dataValue;
         newNode.next = headRef[0];
         headRef[0] = newNode;
+
     }
 }
