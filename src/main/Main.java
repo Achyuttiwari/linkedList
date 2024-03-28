@@ -17,6 +17,7 @@ public class Main {
             v.add(curr.data);
             curr = curr.next;
         }
+
         System.out.print("Middle Value Of Linked List is : ");
         System.out.println(v.get(v.size() / 2));
     }

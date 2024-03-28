@@ -7,5 +7,6 @@ public class NodeOperation {
         newNode.next = headRef[0];
         headRef[0] = newNode;
 
+
     }
 }
