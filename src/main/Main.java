@@ -16,6 +16,8 @@ public class Main {
         while (curr != null) {
             v.add(curr.data);
             curr = curr.next;
+
+
         }
 
         System.out.print("Middle Value Of Linked List is : ");
